@@ -1,0 +1,1 @@
+Alter table games add column release_date date null;
